@@ -9,4 +9,4 @@
 
 - 🔧 Discord comunity servers creator
 
-- 🧸 Support me here: https://www.paypal.com/paypalme/twixteaa
+- 🧸 Support me: https://www.paypal.com/paypalme/twixteaa
