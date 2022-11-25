@@ -7,8 +7,4 @@
 - 👯 I’m looking to collaborate with engineers
 - 💬 Ask me about french schools :)
 
-  <p align="center">
-    <a href="https://discord.com/users/853612885556330546">
-        <img title="Twixty" alt="Twixty's Discord" src="https://discord.c99.nl/widget/theme-4/853612885556330546.png"/>
-    </a>
-  </p> 
+
